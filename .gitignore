@@ -1,0 +1,14 @@
+﻿.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+
+research_logs.csv
+*.log
+.venv/
+venv/
